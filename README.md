@@ -19,3 +19,5 @@ Get a [FREE 30-day trial license](https://www.dynamsoft.com/CustomerPortal/Porta
 
     ![vaadin document scan](https://www.codepool.biz/wp-content/uploads/2019/06/vaadin-dynamic-web-twain.png)
 
+## Blog
+[How to Integrate Dynamic Web TWAIN into Vaadin Platform](https://www.codepool.biz/integrate-dynamic-web-twain-vaadin.html)
