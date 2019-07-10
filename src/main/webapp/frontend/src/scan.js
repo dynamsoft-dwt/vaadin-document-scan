@@ -20,7 +20,7 @@ function AcquireImage() {
 function loadDWT() {
     /**
      * Add your valid product key here if you 
-     * Dynamsoft.WebTwainEnv.ProductKey = ""; 
+     * Dynamsoft.WebTwainEnv.ProductKey = "A-VALID-LICENSE-KEY"; 
      */
     Dynamsoft.WebTwainEnv.Load();
 }

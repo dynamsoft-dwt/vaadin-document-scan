@@ -8,10 +8,10 @@ Get a [FREE 30-day trial license](https://www.dynamsoft.com/CustomerPortal/Porta
 1. Install [Maven](https://maven.apache.org/download.cgi?Preferred=ftp://mirror.reverse.net/pub/apache/).
 2. Install [Visual Studio Code Java Pack](https://code.visualstudio.com/docs/languages/java)
 3. Open the project in `VSCode`.
-4. Edit `MainView.java` to set a valid license:
+4. Edit `main\webapp\frontend\src\scan.js` to set a valid license:
 
     ```js
-    DWObject.ProductKey = 'LICENSE-KEY';
+    Dynamsoft.WebTwainEnv.ProductKey = 'A-VALID-LICENSE-KEY';
     ```
 
 5. Press `F5` to run the project.
